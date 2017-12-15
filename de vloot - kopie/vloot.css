@@ -1,0 +1,53 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+	position: absolute;
+	top: 222px;
+}
+img {
+	margin-right: 15px;
+	float: left;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: white;
+	text-decoration: none;
+	padding: 14px 16px;
+	text-align: center;
+}
+li a:hover {
+	background-color: #111;
+}
+main {
+	margin: 0 auto;
+	width: 800px;
+	background-color: white;
+}
+#test {
+	float: left;
+	margin: bottom: 15px;
+}
+h1 {
+	position: absolute;
+	top: 0px;
+}
+h3 {
+	position: absolute;
+	top: 40px;
+}
+.vloot2 {
+	float: right;
+}
+body {
+	background-image: url("bg1.png");
+	background-attachment: fixed;
+	background-size: auto;
+}
+p {
+	font-family: sans-serif;
+}
